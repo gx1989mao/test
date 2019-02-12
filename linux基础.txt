@@ -1,0 +1,66 @@
+linux命令行与shell脚本编程大全
+
+GNU shell bootloader GRUB 
+发行版和根源 Arch 红帽 debian ubuntu deepin pop 获得干净的编程环境
+ssh登陆和vnc远程桌面  
+桌面的几大天王 gnome xfce kde
+
+简单命令使用ls mkdir rmdir rm mv cp ps | grep kill chmod cat clear man touch source cd top dpkg curl >
+更换apt软件镜像源 更换python镜像站
+
+壳子
+shell的选择和增强 bash zsh oh-my-zsh windows下的cmder
+
+工具
+编辑器       编辑器之争：gnome系的带窗口的编辑器gedit kde系的kate kwrite   不带窗口的vim（vimrc） emac 小型轻量的nano
+复用工具     tmux :set -g mouse on set-option -g mouse on    t时间 
+文件查看工具 ranger vifm 会话保持  fzf模糊搜索 tldr帮助文件
+网易云音乐   什么鬼
+字体管理     unity tweak tools  powerline字体安装和切换
+内存观察     top htop  F5tree
+
+下载工具     shop 官网deb文件 自己make 推荐1和2
+ 
+版本管理
+git svm
+git工作流程
+
+离线文档工具
+dash zeal Velocity
+
+深入
+linux文件结构 哪些能动 怎么整理
+加强shell语言学习
+
+语言学习
+c和python
+gcc和make python virtualenv
+pycharm和vscode安装   setting sync和github token gist zsh终端字体修改
+守护进程和开机自启动 daemon  shell脚本
+环境变量是个啥
+树莓派如何驱动硬件dev文件虚拟硬件
+
+unix和linux组成
+文件系统（树莓派用户指南）
+硬盘分区结构
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
